@@ -1,2 +1,2 @@
 n=input("Enter your name")
-printf("Hello", n)
+printf("Hello ", n)
